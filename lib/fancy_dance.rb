@@ -1,10 +1,22 @@
 module FancyDance
   module InstanceMethods
-    
 
+    def twirl
 
+    end
 
-end
+    def jump
+
+    end
+
+    def pirouette
+
+    end
+
+    def take_a_bow
+
+    end
+  end
 
   module Class Methods
 
